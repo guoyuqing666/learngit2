@@ -1,7 +1,7 @@
-Git is a free software distributed under the GPL.
+Git is a good software distributed under the GPL.
 aaaaaaaadsasfsffffffffaaaaafffffffff
 adsaaaaaaayyyyyyyyyf
-bbbbbbbbbbbbbbbbbb
-cccccnnnnnnnnnnccccccc
-eeeeeeeeeeeeeeeeeeeeee
+bbbbbbvvvvvvvbbbbbb
+cccccmmmmmmmmccccccc
+rrrrrrrrrrrrrrrrrrr
 
