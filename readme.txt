@@ -9,7 +9,7 @@ eeeeeemmmmmeeeeeefffff
 kkkkkkkkkkkkkkkkkk
 
 
-Git is 123 new friend
+Git is 123 new debug friend
 Creating a new branch is quick
 
 debug
