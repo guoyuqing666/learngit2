@@ -13,5 +13,3 @@ Creating a new bugbranch is quick
 
 debug
 
-aaaaaaa
-
