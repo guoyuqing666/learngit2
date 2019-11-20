@@ -10,7 +10,7 @@ kkkkkkkkkkkkkkkkkk
 
 
 Git is 123 new debug friend
-Creating a new branch is quick
+Creating a new bugbranch is quick
 
 debug
 
