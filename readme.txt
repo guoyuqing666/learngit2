@@ -8,6 +8,6 @@ rrrrrrrccccccccrrrrr
 eeeeeemmmmmeeeeeefffff
 kkkkkkkkkkkkkkkkkk
 
-Git is wsb new friend
+Git is 123 new friend
 Creating a new branch is quick
 
