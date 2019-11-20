@@ -9,7 +9,6 @@ eeeeeemmmmmeeeeeefffff
 kkkkkkkkkkkkkkkkkk
 
 
-Git is 123 new debug friend
 Creating a new bugbranch is quick
 
 debug
