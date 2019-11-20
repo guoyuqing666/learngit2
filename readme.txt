@@ -8,5 +8,5 @@ rrrrrrrccccccccrrrrr
 eeeeeemmmmmeeeeeefffff
 kkkkkkkkkkkkkkkkkk
 
-Git is gyq new friend
+Git is abb new friend
 Creating a new branch is quick
