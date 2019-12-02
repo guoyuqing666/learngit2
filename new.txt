@@ -1,4 +1,5 @@
-aaabbbbb
-cccccbbbb
-bbbbbcccc
-bbbbbbbbb
+aaabbb
+abb
+cddcc
+cccc
+
