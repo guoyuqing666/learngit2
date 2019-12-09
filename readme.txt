@@ -4,8 +4,8 @@ adsaaaaaaayyyyyyyyyf
 bbbbbbvvvvvvvbbbbbb
 
 cccccmmmmmmmmccccccc
-rrrrrrrccccccccrrrrr
-eeeeeemmmmmeeeeeefffff
+11111111111111111111
+11111111111111111111
 kkkkkkkkkkkkkkkkkk
 
 
